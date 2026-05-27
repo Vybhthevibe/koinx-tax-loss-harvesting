@@ -8,7 +8,7 @@ A responsive React-based web application that simulates a Tax Loss Harvesting da
 
 ## 🔗 Live Demo
 
-[YOUR_VERCEL_LINK](https://koinx-tax-loss-harvesting-alpha.vercel.app/)
+(https://koinx-tax-loss-harvesting-alpha.vercel.app/)
 
 ---
 
